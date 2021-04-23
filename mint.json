@@ -1,0 +1,19 @@
+{
+  "name": "minty-fresh",
+  "application": {
+    "head": "assets/head.html",
+    "title": "minty-fresh",
+    "icon": "assets/favicon.png"
+  },
+  "external": {
+    "stylesheets": [
+      "assets/style.css"
+    ]
+  },
+  "source-directories": [
+    "source"
+  ],
+  "test-directories": [
+    "tests"
+  ]
+}
